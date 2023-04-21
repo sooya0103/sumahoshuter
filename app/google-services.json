@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "670273411753",
+    "project_id": "battleroom-d9e32",
+    "storage_bucket": "battleroom-d9e32.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670273411753:android:d1a0a56713b0aafa4be7b8",
+        "android_client_info": {
+          "package_name": "com.example.sumahoshooter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "670273411753-n5ki0rudkm6n5u0tu3bvgvivoao079ln.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbxnh_Eexvy_nESKfV9xVBvScMM9mlDBc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "670273411753-n5ki0rudkm6n5u0tu3bvgvivoao079ln.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
